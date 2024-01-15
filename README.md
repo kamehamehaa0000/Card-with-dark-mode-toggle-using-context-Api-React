@@ -1,8 +1,7 @@
-# React + Vite
+## This is mini project made by me while learning context api and tailwind dark mode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## screenshot of the card :
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![light-mode](./public/light_Mode.JPG)
+</br>
+![dark-mode](./public/dark_Mode.JPG)
