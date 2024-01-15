@@ -4,4 +4,4 @@
 
 ![light-mode](./public/light_Mode.JPG)
 </br>
-![dark-mode](./public/dark_Mode.JPG)
+![dark-mode](./public/dark_mode.JPG)
